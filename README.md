@@ -1,5 +1,6 @@
 # 南台消息查詢程式 STUSTNEWS VIEWER ( Python Version )
 
+[![hackmd-github-sync-badge](https://hackmd.io/Q96NdvxRRDCea5bmkcSxfw/badge)](https://hackmd.io/Q96NdvxRRDCea5bmkcSxfw)
 <p class="has-medium-font-size">
 你是那個很懶得開瀏覽器看南台最新消息嗎 ?</p>
 
