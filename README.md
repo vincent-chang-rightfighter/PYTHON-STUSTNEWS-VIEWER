@@ -38,8 +38,8 @@
 </p>
 
 <h2 id="downloadblock">下載點 ( Windows 64 bit )</h2>
-<!--
-<p><a href="https://github.com/vincent-chang-rightfighter/STUSTNEWS-VIEWER/releases">https://github.com/vincent-chang-rightfighter/STUSTNEWS-VIEWER/releases</a></p>-->
+
+<p><a href="https://github.com/vincent-chang-rightfighter/PYTHON-STUSTNEWS-VIEWER/releases/">https://github.com/vincent-chang-rightfighter/PYTHON-STUSTNEWS-VIEWER/releases/</a></p>
 
 <h2>後續版本改進計畫</h2>
 
