@@ -28,7 +28,7 @@
 <p>若要手動清空列表點擊 " 清空列表 " 按鈕, <s>這功能有點多餘</s></p>
 <p>若要退出可以點擊 " Click & Quit " 按鈕 , 或點擊 X 關閉程式</p>
 
-![](https://i.imgur.com/zx1CrnV.gif)
+<p>效果如圖 <a href="https://i.imgur.com/zx1CrnV.gif"> GIF </a> 圖</p>
 
 <h2>ChangeLog</h2>
 
