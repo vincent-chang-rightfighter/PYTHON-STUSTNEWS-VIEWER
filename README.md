@@ -5,7 +5,7 @@
 你是那個很懶得開瀏覽器看南台最新消息嗎 ?</p>
 
 <p class="has-medium-font-size">
-亦或者是你不看南台最新消息而錯過一些重要的事嗎 ?</p>
+亦或者你不看南台最新消息而錯過一些重要的事嗎 ?</p>
 
 ![image](https://i.imgur.com/50LfEMA.png)
 
