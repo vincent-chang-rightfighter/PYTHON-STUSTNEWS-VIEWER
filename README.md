@@ -1,6 +1,8 @@
 # 南台消息查詢程式 STUSTNEWS VIEWER ( Python Version )
 
 [![hackmd-github-sync-badge](https://hackmd.io/Q96NdvxRRDCea5bmkcSxfw/badge)](https://hackmd.io/Q96NdvxRRDCea5bmkcSxfw)
+[![Github-release-badge](https://img.shields.io/github/v/release/vincent-chang-rightfighter/PYTHON-STUSTNEWS-VIEWER.svg?style=flat-square&logo)](https://github.com/vincent-chang-rightfighter/PYTHON-STUSTNEWS-VIEWER/releases/)
+
 <p class="has-medium-font-size">
 你是那個很懶得開瀏覽器看南台最新消息嗎 ?</p>
 
@@ -11,14 +13,14 @@
 
 <p>管甚麼介紹 <a href="#downloadblock" data-type="internal" data-id="#downloadblock">點此跳轉</a>下載區塊</p>
 
-<h2>程式簡介</h2>
-<p>同樣的南台 NEWS 的 Icon 感謝 SHXJ 製作</p>
-<p>編寫語言 Python 3</p>
-<p>介面使用 Tkinter</p>
-<p>程式打包 Pyinstaller<p>
-<p>爬蟲和字串處理</p>
-<p>沒有華麗的介面</p>
-<p>簡單的程式</p>
+<h2>程式簡介 </h2>
+<p>同樣的南台 NEWS 的 Icon 感謝 SHXJ 製作 </p>
+<p>編寫語言 Python 3.7 </p>
+<p>介面使用 Tkinter </p>
+<p>程式打包 Pyinstaller <p>
+<p>爬蟲和字串處理 </p>
+<p>沒有華麗的介面 </p>
+<p>簡單的程式 </p>
 
 <h2>程式提供功能</h2>
 
@@ -53,6 +55,8 @@ V 0.0.5 改善項目<br />
 
 <h2 id="downloadblock">下載點 ( Windows 64 bit )</h2>
 
+![Github-download-badge](https://img.shields.io/github/downloads/vincent-chang-rightfighter/PYTHON-STUSTNEWS-VIEWER/total.svg?style=flat-square&logo)
+
 <p><a href="https://github.com/vincent-chang-rightfighter/PYTHON-STUSTNEWS-VIEWER/releases/">https://github.com/vincent-chang-rightfighter/PYTHON-STUSTNEWS-VIEWER/releases/</a></p>
 
 <h2>後續版本改進計畫</h2>
@@ -61,4 +65,4 @@ V 0.0.5 改善項目<br />
 
 
 <h2>🔴聲明:本程式非南台科技大學出品,若收到相關通知會下架處理🔴</h2>
-<p>南台資工大四 Vincent 鞠躬</p>
+<p>南台資工大四 Vincent</p>
