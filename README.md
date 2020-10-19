@@ -1,4 +1,4 @@
-# 南台消息查詢程式 STUSTNEWS VIEWER ( Python Version )
+# 南台消息查詢程式 STUSTNEWS VIEWER
 
 [![hackmd-github-sync-badge](https://hackmd.io/Q96NdvxRRDCea5bmkcSxfw/badge)](https://hackmd.io/Q96NdvxRRDCea5bmkcSxfw)
 [![Github-release-badge](https://img.shields.io/github/v/release/vincent-chang-rightfighter/PYTHON-STUSTNEWS-VIEWER.svg?style=flat-square&logo)](https://github.com/vincent-chang-rightfighter/PYTHON-STUSTNEWS-VIEWER/releases/)
